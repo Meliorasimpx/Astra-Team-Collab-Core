@@ -1,0 +1,6 @@
+@Astra_Team_Collab_Core_HostAddress = http://localhost:5105
+
+GET {{Astra_Team_Collab_Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
